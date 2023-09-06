@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="navbar_folder" width="40" height="29" viewBox="0 0 40 29">
+    <defs>
+        <style>
+            .cls-1{fill:#7c9eb2}
+        </style>
+    </defs>
+    <path id="Rectangle_66" d="M0 0H40V3H0z" class="cls-1"/>
+    <path id="Rectangle_67" d="M0 0H40V3H0z" class="cls-1" transform="translate(0 13)"/>
+    <path id="Rectangle_68" d="M0 0H40V3H0z" class="cls-1" transform="translate(0 26)"/>
+</svg>
